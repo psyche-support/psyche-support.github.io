@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: mint
 search: true
+url: "https://psyche.support"
 
 # Build settings
 markdown: kramdown
