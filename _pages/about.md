@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Dimitra Malaki has graduated from the Department of Theology of the Aristotle University of Thessaloniki, doing a Master of Arts (MA) in Counseling Psychology at the University of Sheffield. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+She is doing her practical exercise as a training counselor at the counseling center of the University of Sheffield.
+She provides Counselling and Psychotherapy services for individuals who want to work with daily life issues, or deep rooted concerns.
+Great emphasis is given to the therapeutic relationship and communication, within a confidential environment.
