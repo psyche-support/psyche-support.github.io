@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Άρθρα"
     url: /posts/
-  - title: "Categories"
+  - title: "Κατηγορίες"
     url: /categories/
-  - title: "Tags"
+  - title: "HashTags"
     url: /tags/
-  - title: "About"
+  - title: "Πληροφορίες"
     url: /about/
+  - title: "Επικοινωνία"
+    url: /contact/
