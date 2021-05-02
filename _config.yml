@@ -64,7 +64,9 @@ plugins:
 author:
   name   : "Δήμητρα Μαλάκη"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Σύμβουλος Ψυχικής Υγείας | Msc in counselling psychology"
+  bio    : >- 
+    Σύμβουλος Ψυχικής Υγείας 
+    Msc in counselling psychology
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
