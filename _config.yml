@@ -62,9 +62,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dimitra M."
+  name   : "Δήμητρα Μαλάκη"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Σύμβουλος Ψυχικής Υγείας | Msc in counselling psychology"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
