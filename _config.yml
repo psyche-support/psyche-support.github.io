@@ -24,6 +24,8 @@ github_username: username
 minimal_mistakes_skin: mint
 search: true
 url: "https://psyche.support"
+logo: "/assets/images/logo.png"
+masthead_title: "Psyche Support"
 
 # Build settings
 markdown: kramdown
