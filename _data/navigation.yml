@@ -1,10 +1,15 @@
 main:
   - title: "Άρθρα"
     url: /posts/
-  - title: "Κατηγορίες"
-    url: /categories/
-  - title: "HashTags"
-    url: /tags/
+    children:
+      - title: "Κατηγορίες"
+        url: /categories/
+      - title: "Ετικέτες"
+        url: /tags/
+  - title: "Συνεδρίες"
+    url: /sessions/
+  - title: "Υποστήριξη"
+    url: /support/
   - title: "Πληροφορίες"
     url: /about/
   - title: "Επικοινωνία"
