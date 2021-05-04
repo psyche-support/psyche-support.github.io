@@ -1,3 +1,17 @@
+main:
+  - title: "Άρθρα"
+    url: /posts/
+    children:
+      - title: "Κατηγορίες"
+        url: /categories/
+      - title: "Ετικέτες"
+        url: /tags/
+  - title: "Συνεδρίες"
+    url: /sessions/
+  - title: "Ψυχολογική Υποστήριξη"
+    url: /support/
+  - title: "Πληροφορίες"
+    url: /about/
 posts:
   - title: "Άρθρα"
     url: /posts/
