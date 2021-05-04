@@ -64,22 +64,33 @@ plugins:
 author:
   name   : "Δήμητρα Μαλάκη"
   avatar : "/assets/images/bio-photo.jpg"
+  location: "Thessaloniki, Greece"
   bio    : >- 
     Σύμβουλος Ψυχικής Υγείας <br/>
     MA in Counselling Psychology
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://psyche.support"
+
+    - label: "Email"
+      icon: "far fa-fw fa-paper-plane"
+      url: "mailto:madimitra1@gmail.com"
+
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dimitra-malaki-6222021b8"
+
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/PsycheSupport"
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/psyche.support"
-
+      
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dimitra-malaki-6222021b8"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/PsycheSupport"
