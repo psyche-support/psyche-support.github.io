@@ -1,5 +1,5 @@
 ---
-permalink: /sessions/
+permalink: /support/
 title: "Ανώνυμη ψυχολογική υποστήριξη"
 author_profile: true
 sidebar:
