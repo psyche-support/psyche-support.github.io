@@ -1,7 +1,7 @@
 ---
 title: "'Αρθρα ανα κατηγορία"
 layout: categories
-permalink: /categories/
+permalink: /posts/categories/
 author_profile: true
 sidebar:
   nav: "posts"
