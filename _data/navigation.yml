@@ -1,6 +1,6 @@
 main:
   - title: "Άρθρα"
-    url: /categories/
+    url: /posts/categories/
   - title: "Συνεδρίες"
     url: /sessions/
   - title: "Ψυχολογική Υποστήριξη"
@@ -9,12 +9,12 @@ main:
     url: /about/
 posts:
   - title: "Άρθρα ανα κατηγορία"
-    url: /categories/
+    url: /posts/categories/
     children:
       - title: "άρθρα ανα έτος"
-        url: /posts/
+        url: /posts/year/
       - title: "άρθρα ανα ετικέτα"
-        url: /tags/
+        url: /posts/tags/
 services:
   - title: "Συνεδρίες"
     url: /sessions/
