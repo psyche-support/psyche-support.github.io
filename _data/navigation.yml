@@ -8,9 +8,7 @@ main:
         url: /tags/
   - title: "Συνεδρίες"
     url: /sessions/
-  - title: "Υποστήριξη"
+  - title: "Ψυχολογική Υποστήριξη"
     url: /support/
   - title: "Πληροφορίες"
     url: /about/
-  - title: "Επικοινωνία"
-    url: /contact/
