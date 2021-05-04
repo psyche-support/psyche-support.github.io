@@ -1,4 +1,4 @@
-main:
+posts:
   - title: "Άρθρα"
     url: /posts/
     children:
@@ -6,9 +6,11 @@ main:
         url: /categories/
       - title: "Ετικέτες"
         url: /tags/
+services:
   - title: "Συνεδρίες"
     url: /sessions/
   - title: "Ψυχολογική Υποστήριξη"
     url: /support/
+info:
   - title: "Πληροφορίες"
     url: /about/
