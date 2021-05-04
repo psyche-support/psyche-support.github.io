@@ -20,7 +20,7 @@ excerpt: >
   <br>  
   <br>
 feature_row:
-  - image_path: /assets/images/morgan-housel-cAQZuqdvba8-unsplash.jpg
+  - image_path: /assets/images/nick-fewings-732DEF5f6iU-unsplash.jpg
     alt: "'Αρθρα"
     title: "'Αρθρα"
     excerpt: "'Αρθρα ανα έτος"
