@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Ξεκίνα εδώ"
-      url: "/posts"
+      url: "/sessions"
 excerpt: >
   <br>
   <br>
@@ -23,8 +23,8 @@ feature_row:
   - image_path: /assets/images/nick-fewings-732DEF5f6iU-unsplash.jpg
     alt: "'Αρθρα"
     title: "'Αρθρα"
-    excerpt: "'Αρθρα ανα έτος"
-    url: "/posts/"
+    excerpt: "'Αρθρα ανα κατηγορία, έτος ή ετικέτα"
+    url: "/categories/"
     btn_class: "btn--primary"
     btn_label: "Αρθρα"
   - image_path: /assets/images/priscilla-du-preez-F9DFuJoS9EU-unsplash.jpg
