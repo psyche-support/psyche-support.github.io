@@ -24,7 +24,7 @@ feature_row:
     alt: "'Αρθρα"
     title: "'Αρθρα"
     excerpt: "'Αρθρα ανα κατηγορία, έτος ή ετικέτα"
-    url: "/categories/"
+    url: "/posts/categories/"
     btn_class: "btn--primary"
     btn_label: "Αρθρα"
   - image_path: /assets/images/priscilla-du-preez-F9DFuJoS9EU-unsplash.jpg
