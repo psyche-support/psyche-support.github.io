@@ -1,6 +1,6 @@
 ---
 title: "'Αρθρα ανα έτος"
-permalink: /posts/
+permalink: /posts/year/
 layout: posts
 author_profile: true
 sidebar:
