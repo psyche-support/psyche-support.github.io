@@ -27,14 +27,14 @@ feature_row:
     url: "/posts/categories/"
     btn_class: "btn--primary"
     btn_label: "Αρθρα"
-  - image_path: /assets/images/priscilla-du-preez-F9DFuJoS9EU-unsplash.jpg
+  - image_path: /assets/images/marcel-strauss-fzqxoFJytiE-unsplash.jpg
     alt: "Συνεδρίες"
     title: "Συνεδρίες"
     excerpt: "Κλείσε την πρώτη συνεδρία μόνο με 20 Ευρώ."
     url: "/sessions/"
     btn_class: "btn--primary"
     btn_label: "Συνεδρίες"
-  - image_path: /assets/images/marcel-strauss-fzqxoFJytiE-unsplash.jpg
+  - image_path: /assets/images/jan-canty-Ps8ffpzGJxM-unsplash.jpg
     alt: "Υπηρεσίες"
     title: "Υπηρεσίες"
     excerpt: "Δείτε τις υπηρεσίες που προσθέρουμε εδώ."
