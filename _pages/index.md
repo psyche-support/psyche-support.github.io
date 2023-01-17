@@ -34,7 +34,7 @@ feature_row:
     url: "/sessions/"
     btn_class: "btn--primary"
     btn_label: "Συνεδρίες"
-  - image_path: /assets/images/jan-canty-Ps8ffpzGJxM-unsplash.jpg
+  - image_path: /assets/images/marcel-strauss-fzqxoFJytiE-unsplash.jpg
     alt: "Υπηρεσίες"
     title: "Υπηρεσίες"
     excerpt: "Δείτε τις υπηρεσίες που προσθέρουμε εδώ."
