@@ -34,13 +34,13 @@ feature_row:
     url: "/sessions/"
     btn_class: "btn--primary"
     btn_label: "Συνεδρίες"
-  - image_path: /assets/images/engin-akyurt-KHDwnq57MUw-unsplash.jpg
-    alt: "Ανώνυμη ψυχολογική υποστήριξη"
-    title: "Ανώνυμη ψυχολογική υποστήριξη"
-    excerpt: "Λάβετε ψυχολογική υποστήριξη ανώνυμα μέσω μηνυμάτων."
+  - image_path: /assets/images/jan-canty-Ps8ffpzGJxM-unsplash.jpg
+    alt: "Υπηρεσίες"
+    title: "Υπηρεσίες"
+    excerpt: "Δείτε τις υπηρεσίες που προσθέρουμε εδώ."
     url: "/support/"
     btn_class: "btn--primary"
-    btn_label: "Υποστήριξη"
+    btn_label: "Υπηρεσίες"
 ---
 
 Το επάγγελμα του ψυχοθεραπευτή, είναι κάτι παραπάνω από ένα επάγγελμα. Συνδέεται με ένα δικό μας κομμάτι, που αντλεί ικανοποίηση απο το να γνωρίζει και να βοηθά τους ανθρώπους σε ένα βαθύ και αληθινό επίπεδο.

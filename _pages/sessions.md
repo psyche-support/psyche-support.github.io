@@ -8,7 +8,7 @@ sidebar:
 
 Κλείσε την πρώτη θεραπευτική συνεδρία
 ==
-Ξεκινήστε την πρώτη online συνεδρία από 20 Ευρώ στο psyche.support. Οι συνεδρίες πραγματοποιούνται εξ αποστάσεως μέσω Viber, Skype, Whatsapp και Google meet. Κάντε κράτηση εδώ [Κάντε κράτηση εδώ](https://calendly.com/psyche-suppor){: .btn}
+Ξεκινήστε την πρώτη online συνεδρία από 20 Ευρώ στο psyche.support. Οι συνεδρίες πραγματοποιούνται εξ αποστάσεως μέσω Viber, Skype, Whatsapp και Google meet. Κάντε κράτηση εδώ [Κάντε κράτηση εδώ](https://calendly.com/psyche-suppor){: .btn .btn-blue}
 
 Η τιμή της συνεδρίας από την δεύτερη συνεδρία και έπειτα ορίζεται απο τον θεραπευτή.
 
