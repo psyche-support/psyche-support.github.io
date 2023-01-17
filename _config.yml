@@ -62,17 +62,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Δήμητρα Μαλάκη"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Psyche Support"
+  avatar : "/assets/images/logo.png"
   location: "Thessaloniki, Greece"
   bio    : >- 
-    Σύμβουλος Ψυχικής Υγείας <br/>
-    MA in Counselling Psychology
+    Πλατφόρμα  <br/>
+    Online Ψυχοθεραπείας
   links:
 
     - label: "Email"
       icon: "far fa-fw fa-paper-plane"
-      url: "mailto:madimitra1@gmail.com"
+      url: "mailto:malaki.dimitra@gmail.com"
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
