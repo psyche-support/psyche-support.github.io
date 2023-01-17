@@ -3,8 +3,8 @@ main:
     url: /posts/categories/
   - title: "Συνεδρίες"
     url: /sessions/
-  - title: "Ψυχολογική Υποστήριξη"
-    url: /support/
+  - title: "Υπηρεσίες"
+    url: /offerings/
   - title: "Πληροφορίες"
     url: /about/
 posts:
@@ -18,8 +18,8 @@ posts:
 services:
   - title: "Συνεδρίες"
     url: /sessions/
-  - title: "Ψυχολογική Υποστήριξη"
-    url: /support/
+  - title: "Υπηρεσίες"
+    url: /offerings/
 info:
   - title: "Πληροφορίες"
     url: /about/

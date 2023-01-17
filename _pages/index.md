@@ -38,7 +38,7 @@ feature_row:
     alt: "Υπηρεσίες"
     title: "Υπηρεσίες"
     excerpt: "Δείτε τις υπηρεσίες που προσθέρουμε εδώ."
-    url: "/support/"
+    url: "/offerings/"
     btn_class: "btn--primary"
     btn_label: "Υπηρεσίες"
 ---
