@@ -4,7 +4,7 @@ permalink: /
 classes: wide
 title: "Online Ψυχοθεραπεία"
 header:
-  overlay_image: assets/images/toa-heftiba-_UIVmIBB3JU-unsplash.jpg
+  overlay_image: assets/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg
   overlay_filter: 0.6
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
