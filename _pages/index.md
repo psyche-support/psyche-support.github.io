@@ -8,15 +8,15 @@ header:
   overlay_filter: 0.6
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "Ξεκίνα εδώ"
-      url: "/sessions"
+    - label: "Κλείσε ραντεβού εδώ"
+      url: "https://calendly.com/psyche-support/"
 excerpt: >
   <br>
   <br>
-  **Πλατφόρμα online ψυχοθεραπείας**
-  <br>
-  <br>
   **"Από την ψυχή για την ψυχή"**
+  <br>
+  <br>
+  **Ξεκίνα online ψυχοθεραπία απο 20 ευρώ**
   <br>  
   <br>
 feature_row:
