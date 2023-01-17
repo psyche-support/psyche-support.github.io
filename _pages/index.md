@@ -37,7 +37,7 @@ feature_row:
   - image_path: /assets/images/engin-akyurt-KHDwnq57MUw-unsplash.jpg
     alt: "Ανώνυμη ψυχολογική υποστήριξη"
     title: "Ανώνυμη ψυχολογική υποστήριξη"
-    excerpt: "Λάβετε ψυχολογική υποστήριξη ανώνυμα μέσω μηνυμάτων"
+    excerpt: "Λάβετε ψυχολογική υποστήριξη ανώνυμα μέσω μηνυμάτων."
     url: "/support/"
     btn_class: "btn--primary"
     btn_label: "Υποστήριξη"
