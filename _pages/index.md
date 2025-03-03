@@ -30,7 +30,7 @@ feature_row:
   - image_path: /assets/images/marcel-strauss-fzqxoFJytiE-unsplash.jpg
     alt: "Συνεδρίες"
     title: "Συνεδρίες"
-    excerpt: "Κλείσε την πρώτη συνεδρία μόνο με 20 Ευρώ."
+    excerpt: "Κλείσε την πρώτη σου συνεδρία"
     url: "/sessions/"
     btn_class: "btn--primary"
     btn_label: "Συνεδρίες"
