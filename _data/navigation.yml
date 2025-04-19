@@ -1,10 +1,10 @@
 main:
-  - title: "Άρθρα"
-    url: /posts/categories/
   - title: "Συνεδρίες"
     url: /sessions/
   - title: "Υπηρεσίες"
     url: /offerings/
+  - title: "Άρθρα"
+    url: /posts/categories/
   - title: "Πληροφορίες"
     url: /about/
 posts:
