@@ -4,7 +4,7 @@ permalink: /
 classes: wide
 title: "Ψυχική Υγεία ♡ Ψυχοθεραπεία"
 header:
-  overlay_image: assets/images/hanton-darius-ij_zeMyE5tc-unsplash.jpg
+  overlay_image: assets/images/anton-darius-ij_zeMyE5tc-unsplash.jpg
   overlay_filter: 0.6
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
