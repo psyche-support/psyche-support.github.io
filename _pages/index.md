@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Κλείσε ραντεβού εδώ"
-      url: "https://calendly.com/psyche-support/"
+      url: "https://cal.com/psyche-support"
     - label: "Μάθε περισσότερα"
       url: "/sessions"
 excerpt: >
