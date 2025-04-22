@@ -8,7 +8,7 @@ sidebar:
 
 ## Κλείσε την πρώτη θεραπευτική συνεδρία
 
-Ξεκινήστε την πρώτη online συνεδρία στο psyche.support. Οι συνεδρίες πραγματοποιούνται εξ αποστάσεως μέσω Viber, Whatsapp, Microsoft Teams και Google meet. [Κλείσε ραντεβού εδώ](https://cal.com/psyche-support){: .btn .btn--primary}
+Ξεκινήστε την πρώτη online/δια ζώσης συνεδρία στο psyche.support. Οι εξ αποστάσεως συνεδρίες πραγματοποιούνται μέσω Viber, Whatsapp, Microsoft Teams και Google meet. [Κλείσε ραντεβού εδώ](https://cal.com/psyche-support){: .btn .btn--primary}
 
 ### Τι είναι η ψυχοθεραπεία
 
