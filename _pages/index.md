@@ -10,6 +10,8 @@ header:
   actions:
     - label: "Κλείσε ραντεβού εδώ"
       url: "https://calendly.com/psyche-support/"
+    - label: "Μάθε περισσότερα"
+      url: "/sessions"
 excerpt: >
   <br>
   <br>
