@@ -1,8 +1,8 @@
 main:
-  - title: "Συνεδρίες"
-    url: /sessions/
   - title: "Υπηρεσίες"
     url: /offerings/
+  - title: "Συνεδρίες"
+    url: /sessions/
   - title: "Άρθρα"
     url: /posts/categories/
   - title: "Πληροφορίες"
@@ -16,10 +16,10 @@ posts:
       - title: "άρθρα ανα ετικέτα"
         url: /posts/tags/
 services:
-  - title: "Συνεδρίες"
-    url: /sessions/
   - title: "Υπηρεσίες"
     url: /offerings/
+  - title: "Συνεδρίες"
+    url: /sessions/
 info:
   - title: "Πληροφορίες"
     url: /about/

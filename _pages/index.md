@@ -11,7 +11,7 @@ header:
     - label: "Κλείσε ραντεβού εδώ"
       url: "https://cal.com/psyche-support"
     - label: "Μάθε περισσότερα"
-      url: "/sessions"
+      url: "/offerings"
 excerpt: >
   <br>
   <br>
